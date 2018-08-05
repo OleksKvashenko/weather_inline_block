@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body {
+     font-size: 1rem;
+     color: #ffffff;
+ }
+
+.box {
+    background: #3399cc;
+    border: 20px solid #2b81ac;
+}
+
+.box_content {
+    width: 80%;
+    margin: 40px auto 0;
+
+}
+.weather-box {
+    border: 2px solid white;
+    font-size: 0;
+}
+
+
+.box_general {
+    display: inline-block;
+    font-size: 1rem;
+    border: 1px solid #ffffff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+.lisbon {
+    width: 50%;
+    background: #3399cc;
+}
+
+.paris {
+    width: 25%;
+    background: #33cccc;
+}
+
+.belgrad {
+    width: 25%;
+    background: #996699;
+}
+
+.moscow {
+    width: 25%;
+    background: #c24747;
+}
+
+.telaviv {
+    width: 25%;
+    background: #e2674a;
+}
+
+.cair {
+    width: 25%;
+    background: #ffcc66;
+}
+
+.newyork {
+    width: 25%;
+    background: #99cc99;
+}
+
+.newdelhi {
+    width: 25%;
+    background: #669999;
+}
+
+.sanfrancisco {
+    width: 50%;
+    background: #cc6699;
+}
+
+.tokyo {
+    width: 25%;
+    background: #339966;
+}
+
+.sydney {
+    width: 100%;
+    background: #666699;
+}
+
+footer {
+    padding-top: 42px;
+    padding-bottom: 182px;
+}
+
+.general_content {
+    padding-bottom: 32px;
+}
